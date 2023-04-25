@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblp.a CMakeFiles/lp.dir/reader.cpp.o CMakeFiles/lp.dir/utility.cpp.o
-/usr/bin/ranlib liblp.a
