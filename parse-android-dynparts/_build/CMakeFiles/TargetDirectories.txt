@@ -1,0 +1,6 @@
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/CMakeFiles/rebuild_cache.dir
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/CMakeFiles/parse-android-dynparts.dir
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/CMakeFiles/edit_cache.dir
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/liblp/CMakeFiles/rebuild_cache.dir
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/liblp/CMakeFiles/lp.dir
+/home/sfos/sfbs-install/sfbootstrap/src/hybris-18.1/hybris/parse-android-dynparts/parse-android-dynparts/_build/liblp/CMakeFiles/edit_cache.dir

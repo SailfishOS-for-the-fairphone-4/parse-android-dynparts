@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -pipe -Wall -Wp,-D_FORTIFY_SOURCE=2 -fexceptions -fstack-protector --param=ssp-buffer-size=4 -Wformat -Wformat-security -march=armv8-a CMakeFiles/parse-android-dynparts.dir/main.cpp.o -o parse-android-dynparts  liblp/liblp.a /usr/lib64/libcrypto.so 
